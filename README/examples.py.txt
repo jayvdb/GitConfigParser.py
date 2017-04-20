@@ -1,0 +1,3 @@
+>>> from gitconfigparser import GitConfigParser
+
+>>> gitconfig=GitConfigParser(path)

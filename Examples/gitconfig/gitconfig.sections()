@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+import os
+from gitconfigparser import GitConfigParser
+
+path = os.path.join(os.environ["HOME"], ".gitconfig")
+if os.path.exists(path):
+    gitconfig = GitConfigParser(path)
+    print(gitconfig.sections())
