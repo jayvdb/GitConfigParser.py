@@ -9,6 +9,10 @@ README generated with readmemako.py (github.com/russianidiot/readme-mako.py) and
 [![PyPI](https://img.shields.io/pypi/pyversions/gitconfigparser.svg)](https://pypi.python.org/pypi/gitconfigparser)
 [![PyPI](https://img.shields.io/pypi/v/gitconfigparser.svg)](https://pypi.python.org/pypi/gitconfigparser)
 <!-- line break -->
+[![](https://codeclimate.com/github/russianidiot/GitConfigParser.py/badges/gpa.svg)](https://codeclimate.com/github/russianidiot/GitConfigParser.py)
+[![](https://landscape.io/github/russianidiot/GitConfigParser.py/master/landscape.svg?style=flat)](https://landscape.io/github/russianidiot/GitConfigParser.py)
+[![](https://scrutinizer-ci.com/g/russianidiot/GitConfigParser.py/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/russianidiot/GitConfigParser.py/)
+[![](https://api.codacy.com/project/badge/Grade/433ef4a0a9e94145bf79a7229b365d38)](https://www.codacy.com/app/russianidiot/GitConfigParser.py)
 <!-- line break -->
 [![](https://api.shippable.com/projects/5759cb1c2a8192902e231b34/badge?branch=master)](https://app.shippable.com/projects/5759cb1c2a8192902e231b34)
 [![](https://app.wercker.com/status/dd698593e2e8e272620bad14889748da/s/master)](https://app.wercker.com/russianidiot/GitConfigParser.py)
