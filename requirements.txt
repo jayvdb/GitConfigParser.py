@@ -1,5 +1,3 @@
-future
 gitdb
 ordereddict
 py3
-setupfiles
