@@ -1,0 +1,89 @@
+.. README generated with readmemako.py (github.com/russianidiot/readme-mako.py) and .README dotfiles (github.com/russianidiot-dotfiles/.README)
+
+
+.. image:: https://img.shields.io/badge/Language-Python-blue.svg?style=plastic
+    :target: none
+
+.. image:: https://img.shields.io/pypi/pyversions/gitconfigparser.svg
+    :target: https://pypi.org/pypi/gitconfigparser
+
+.. image:: https://img.shields.io/pypi/v/gitconfigparser.svg
+    :target: https://pypi.org/pypi/gitconfigparser
+
+|
+
+.. image:: https://api.codacy.com/project/badge/Grade/05d32f7907f0499588e96f3d8f54dd81
+    :target: https://www.codacy.com/app/russianidiot/GitConfigParser-py
+
+.. image:: https://codeclimate.com/github/russianidiot/GitConfigParser.py/badges/gpa.svg
+    :target: https://codeclimate.com/github/russianidiot/GitConfigParser.py
+
+.. image:: https://landscape.io/github/russianidiot/GitConfigParser.py/master/landscape.svg?style=flat
+    :target: https://landscape.io/github/russianidiot/GitConfigParser.py
+
+.. image:: https://scrutinizer-ci.com/g/russianidiot/GitConfigParser.py/badges/quality-score.png?b=master
+    :target: https://scrutinizer-ci.com/g/russianidiot/GitConfigParser.py/
+
+|
+
+.. image:: https://scrutinizer-ci.com/g/russianidiot/GitConfigParser.py/badges/build.png?b=master
+    :target: https://scrutinizer-ci.com/g/russianidiot/GitConfigParser.py/
+
+.. image:: https://semaphoreci.com/api/v1/russianidiot/GitConfigParser-py/branches/master/badge.svg
+    :target: https://semaphoreci.com/russianidiot/GitConfigParser-py
+
+.. image:: https://api.travis-ci.org/russianidiot/GitConfigParser.py.svg?branch=master
+    :target: https://travis-ci.org/russianidiot/GitConfigParser.py/
+
+.. image:: https://app.wercker.com/status/dd698593e2e8e272620bad14889748da/s/master
+    :target: https://app.wercker.com/russianidiot/GitConfigParser.py
+
+
+
+
+Install
+```````
+
+
+.. code:: bash
+
+	`[sudo] pip install gitconfigparser`
+
+
+
+
+
+Usage
+`````
+
+
+.. code:: python
+
+	>>> from gitconfigparser import GitConfigParser
+	
+	>>> gitconfig=GitConfigParser(path)
+
+
+
+Examples
+````````
+
+
+.. code:: python
+
+	>>> from gitconfigparser import GitConfigParser
+	
+	>>> gitconfig=GitConfigParser(path)
+
+
+
+
+
+Feedback |github_follow| |github_issues|
+
+.. |github_follow| image:: https://img.shields.io/github/followers/russianidiot.svg?style=social&label=Follow
+	:target: https://github.com/russianidiot
+
+.. |github_issues| image:: https://img.shields.io/github/issues/russianidiot/GitConfigParser.py.svg
+	:target: https://github.com/russianidiot/GitConfigParser.py/issues
+
