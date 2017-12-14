@@ -2,16 +2,17 @@
 # based on GitPython.config
 import builtins
 import re
-try:
-    import ConfigParser as cp
-except ImportError:
-    # PY3
-    import configparser as cp
 import inspect
 import abc
 import os
 import sys
-from py3 import PY3
+
+try:
+    import ConfigParser as cp
+    PY3 = False
+except ImportError:
+    import configparser as cp
+    PY3 = True
 
 # from git.odict import OrderedDict
 try:
